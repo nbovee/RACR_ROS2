@@ -1,4 +1,4 @@
-FROM althack/ros2:humble-dev 
+FROM althack/ros2:humble-cuda-gazebo-nvidia-2023-04-01
 
 # ** [Optional] Uncomment this section to install additional packages. **
 #
